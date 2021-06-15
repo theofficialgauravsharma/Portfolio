@@ -732,6 +732,11 @@ background-size: 100%;
     font-weight: 700;
 }
 
+.Join__content a{
+    color: #fff;
+    background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+}
+
 #signup-page{
     margin: 10px;
     width: 100px;
@@ -756,9 +761,8 @@ background-size: 100%;
     }
 
 #card-2 {
-    background: #ff512f;
-    background: -webkit-linear-gradient(to right, #dd2476, #ff512f);
-    background: linear-gradient(to right, #dd2476, #ff512f);
+    color: #fff;
+    background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
 }
 
 .fas, .fa-user{
